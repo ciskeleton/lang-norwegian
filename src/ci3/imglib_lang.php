@@ -1,0 +1,22 @@
+<?php
+
+$lang['imglib_copy_error'] = 'Feil ved utbytting av filen. Sjekk at mappen er skrivbar.';
+$lang['imglib_copy_failed'] = 'Bildekopiering mislyktes.';
+$lang['imglib_could_not_crop'] = 'Bildefilen kunne ikke klippes.';
+$lang['imglib_could_not_resize'] = 'Bildefilen kunne ikke endres størrelse.';
+$lang['imglib_ext_not_supported'] = '%s-bilder støttes ikke.';
+$lang['imglib_gd_required'] = 'GD-bildebiblioteket er påkrevet for å kunne bruke denne funksjonen.';
+$lang['imglib_gd_required_for_props'] = 'Tjeneren din må støtte GD-bildebiblioteket for å finne bildeegenskapene.';
+$lang['imglib_gif_not_supported'] = 'GIF-bilder er ofte ikke støttet på grunn av lisensbegrensninger. Du kan være nødt til å bruke JPG- eller PNG-bilder i stedet.';
+$lang['imglib_image_memory_error'] = 'Ikke nok minne til å behandle dette bildet.';
+$lang['imglib_image_process_failed'] = 'Bildebehandling mislyktes. Sjekk at tjeneren din støtter valgte protokoll og at filstien til bildebiblioteket ditt er korrekt.';
+$lang['imglib_invalid_image'] = 'Bildet er ikke gyldig.';
+$lang['imglib_invalid_path'] = 'Stien til bildet er feil.';
+$lang['imglib_jpg_or_png_required'] = 'Protokollen for endring av bildestørrelse spesifisert i innstillingene dine virker kun med bildetypene JPEG og PNG.';
+$lang['imglib_libpath_invalid'] = 'Filstien til bildebiblioteket ditt er feil. Vennligst spesifisér rett sti i bildeinnstillingene dine.';
+$lang['imglib_missing_font'] = 'Fant ingen font.';
+$lang['imglib_rotate_unsupported'] = 'Bilderotering synes ikke å være støttet av tjeneren din.';
+$lang['imglib_rotation_angle_required'] = 'En vinkel må oppgis for å rotere bildet.';
+$lang['imglib_save_failed'] = 'Lagring av bildet mislyktes. Sjekk at bildet og mappen er skrivbare.';
+$lang['imglib_source_image_required'] = 'Du må oppgi et kildebilde i innstillingene dine.';
+$lang['imglib_unsupported_imagecreate'] = 'Tjeneren din støtter ikke GD-funksjonen som er påkrevet for å behandle denne bildetypen.';
